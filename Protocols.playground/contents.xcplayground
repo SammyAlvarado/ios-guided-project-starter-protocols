@@ -3,5 +3,6 @@
     <pages>
         <page name='Protocol Basics'/>
         <page name='Game'/>
+        <page name='Practice Protocols'/>
     </pages>
 </playground>
